@@ -227,3 +227,5 @@ An auditor attestation is separate from repository review. A valid signature ide
 Wallets are responsible for the clear-signing information they show users. A wallet should use a descriptor only after verifying that it is covered by a valid, unrevoked attestation from an auditor the wallet has independently vetted, and that it applies to the relevant transaction. If those checks fail, the wallet should use a safe fallback rather than present the descriptor as verified.
 
 Repository materials are provided as-is without warranties.
+
+This line tests the merge queue with a pull request that changes no descriptor.
