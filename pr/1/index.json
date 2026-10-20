@@ -1,0 +1,23 @@
+{
+  "indexVersion": 1,
+  "pr": 1,
+  "updatedAt": "2026-10-20T08:37:55.288Z",
+  "runs": [
+    {
+      "runId": 39394721422,
+      "runUrl": "https://github.com/sourcifyeth/clear-signing-erc7730-registry/actions/runs/39394721422",
+      "headSha": "bdf077a766fd36dee77bce24594621ecdd6de7df",
+      "startedAt": "2026-10-20T08:37:20Z",
+      "completedAt": "2026-10-20T08:37:36Z",
+      "generatedAt": "2026-10-20T08:37:54.945Z",
+      "schemaVersion": 1,
+      "summary": {
+        "descriptors": 0,
+        "missingTests": 0,
+        "cases": 0,
+        "byStatus": {},
+        "disagreements": 0
+      }
+    }
+  ]
+}
